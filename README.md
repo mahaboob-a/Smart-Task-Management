@@ -2,42 +2,42 @@
 
 A modern and responsive Task Management Web Application designed to help users organize tasks, manage notes, set priorities, and improve productivity.
 
-✨ Features
-.📋 Add, edit, and delete tasks
-.✅ Mark tasks as completed
-.🎯 Set task priorities
-.📅 Add due dates
-.🔔 Task reminder notifications
-.📝 Create and manage notes
-.🔍 Search and filter tasks
-.📊 Productivity statistics
-.💾 LocalStorage data persistence
-.📱 Responsive design
-.🌙 Dark productivity theme
+✨ Features<br>
+.📋 Add, edit, and delete tasks<br>
+.✅ Mark tasks as completed<br>
+.🎯 Set task priorities<br>
+.📅 Add due dates<br>
+.🔔 Task reminder notifications<br>
+.📝 Create and manage notes<br>
+.🔍 Search and filter tasks<br>
+.📊 Productivity statistics<br>
+.💾 LocalStorage data persistence<br>
+.📱 Responsive design<br>
+.🌙 Dark productivity theme<br>
 
-🛠️ Technologies
+🛠️ Technologies<br>
 
-.HTML5 – Structure
-.CSS3 – Styling
-.JavaScript – Functionality
-.Bootstrap – Responsive UI
-.LocalStorage – Data storage
+.HTML5 – Structure<br>
+.CSS3 – Styling<br>
+.JavaScript – Functionality<br>
+.Bootstrap – Responsive UI<br>
+.LocalStorage – Data storage<br>
 
-🎨 Theme
-Dark Productivity Theme
-The theme provides a clean, modern, and professional productivity-focused interface.
+🎨 Theme<br>
+Dark Productivity Theme<br>
+The theme provides a clean, modern, and professional productivity-focused interface.<br>
 
-▶️ How to Run
-Download or clone the project.
-Keep all files in the same folder.
-Open index.html in a modern web browser.
-Start managing your tasks and notes.
-No backend or database is required.
+▶️ How to Run<br>
+Download or clone the project.<br>
+Keep all files in the same folder.<br>
+Open index.html in a modern web browser.<br>
+Start managing your tasks and notes.<br>
+No backend or database is required.<br>
 
-🔮 Future Scope
-.📱 Mobile application
-.🔔 Push notifications
-.☁️ Cloud synchronization
-.🔐 User authentication
-.📅 Calendar integration
+🔮 Future Scope<br>
+.📱 Mobile application<br>
+.🔔 Push notifications<br>
+.☁️ Cloud synchronization<br>
+.🔐 User authentication<br>
+.📅 Calendar integration<br>
 .🤖 AI-based task prioritization
